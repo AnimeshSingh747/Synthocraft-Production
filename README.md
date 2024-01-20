@@ -45,3 +45,6 @@ Synthocraft is a dynamic and innovative company committed to excellence in the m
 ![App Screenshot](https://github.com/AnimeshSingh747/Synthocraft-Production/assets/112372614/2325a3ff-2bb7-4147-a99f-84dd3ba0caf7)
 
 ![App Screenshot](https://github.com/AnimeshSingh747/Synthocraft-Production/assets/112372614/49e743c8-cbb8-4aa0-ba54-549cbaf9baba)
+## 🛠 Skills
+Javascript , XML , SQL , Delmia apriso , SSMS
+
