@@ -12,6 +12,7 @@ Synthocraft is a dynamic and innovative company committed to excellence in the m
 - [@animeshsingh](https://github.com/AnimeshSingh747)
 - [@devapriya](https://github.com/debapriya05)
 - [@Bibhu](https://github.com/Bibhu9)
+- [@HiteshKumar](https://github.com/AnimeshSingh747)
 - [@kirankumarmallik](https://github.com/AnimeshSingh747)
 - [@suzainkhan](https://github.com/AnimeshSingh747)
 
